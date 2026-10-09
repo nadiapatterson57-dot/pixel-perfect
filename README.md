@@ -1,12 +1,14 @@
-# Pixel Perfect
+# Pixel Perfect Screenshot
 
 Implement exactly the screenshot and nothing else
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://pixel-perfect-match-9327.lovable.app
+
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f84a3aee-e863-4091-867a-a40bb874baaf).
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e03d22b9-7300-424b-817d-ad31828720d4).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
